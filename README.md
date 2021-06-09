@@ -2,7 +2,7 @@
 
 - This front end web app allows a user to create sticky notes on the fly.
 
-- It allows people user to keep track of their personal notes on multiple devices by allowing access via web interface that is available on both desktop and mobile platforms.
+- A user can keep track of his/her personal notes on multiple devices by allowing access via web interface that is available on both desktop and mobile platforms.
 
 - It utilizes material ui thus, provides a very user friendly interface. 
 
