@@ -4,9 +4,9 @@
 
 - It allows people user to keep track of their personal notes on multiple devices by allowing access via web interface that is available on both desktop and mobile platforms.
 
--It utilizes material ui thus, provides a very user friendly interface. 
+- It utilizes material ui thus, provides a very user friendly interface. 
 
--Check out the live demo here: https://mehmetgokcek.github.io/note-taker-react-app/
+- Check out the live demo here: https://mehmetgokcek.github.io/note-taker-react-app/
 
 ## What is next?
 - I am planning on creating a REST API back then that would allow the user to record, retrieve, edit and delete the personal notes.
