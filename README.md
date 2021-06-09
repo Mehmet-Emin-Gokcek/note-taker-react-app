@@ -9,5 +9,6 @@
 - Check out the live demo here: https://mehmetgokcek.github.io/note-taker-react-app/
 
 ## What is next?
-- I am planning on creating a REST API back then that would allow the user to record, retrieve, edit and delete the personal notes.
-- It would also be a good idea to add user log in to ensure multiple users can log in to manage personal notes 
+- I am planning on creating a .NET 5 REST API back end that would allow the user to record, retrieve, edit and delete the personal notes.
+- It would also be a good idea to add user log in to ensure multiple users can log in to manage personal notes seperately. 
+- This project can also be integrated into a larger web app as a microservice. 
