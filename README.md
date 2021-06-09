@@ -4,7 +4,7 @@
 
 - A user can keep track of his/her personal notes on multiple devices since the webapp provides access over both desktop and mobile platforms.
 
-- It utilizes material ui thus, provides a very user friendly interface. 
+- It is built on React Material-UI, thus has a very user friendly interface. 
 
 - Check out the live demo here: https://mehmetgokcek.github.io/note-taker-react-app/
 
