@@ -1,6 +1,6 @@
 # Note Taker React App
 
--This front end web app allows a user to create sticky notes on the fly.
+- This front end web app allows a user to create sticky notes on the fly.
 
 - It allows people user to keep track of their personal notes on multiple devices by allowing access via web interface that is available on both desktop and mobile platforms.
 
